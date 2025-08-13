@@ -55,7 +55,8 @@ ganti <domain_target> dengan domain yang ingin kamu check
 chmod +x subcheck-lite.sh
 ./subcheck-lite.sh <domain_target>
 ```
-Atau ```
+Atau 
+```
 ./subcheck-lite.sh <domain_target>
 ```
 contoh ./subcheck-lite.sh monad.xyz
