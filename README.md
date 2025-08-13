@@ -43,6 +43,8 @@ while read sub; do
     fi
 done < subdomains.txt
 ```
+CTRL+O Enter(Save) CTRL+X (Exit) 
+
 # 2. Install Tools
 Pastikan Termux punya semua paket:
 ```
