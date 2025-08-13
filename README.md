@@ -1,4 +1,4 @@
-# subdomain pakai database sertifikat publik dari crt.sh + dig + openssl.
+#subdomain pakai database sertifikat publik dari crt.sh + dig + openssl.
 Jadi ini cukup ringan di Termux dan langsung bisa jalan.
 
 # 1. Script-nya
