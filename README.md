@@ -51,7 +51,11 @@ Pastikan Termux punya semua paket:
 pkg update && pkg upgrade -y
 pkg install whois jq curl openssl dnsutils -y
 ```
-# 3. Jalankan 
+# 3. Kasih izin eksekusi
+```
+chmod +x subcheck-lite.sh
+```
+# 4. Jalankan
 ganti <domain_target> dengan domain yang ingin kamu check
 ```
 chmod +x subcheck-lite.sh
